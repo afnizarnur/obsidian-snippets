@@ -1,0 +1,10 @@
+body {
+  --h1-weight: 700;
+  --line-height-normal: 1.4;
+}
+
+.cm-header-4,
+.cm-header-5,
+.cm-header-6 {
+  letter-spacing: 0;
+}
